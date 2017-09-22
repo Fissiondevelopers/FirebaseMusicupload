@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Projectbits2\\musicplayerproject\\android-visualizer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\_webmusic.mp3",
+        "source": "E:\\Projectbits2\\musicplayerproject\\android-visualizer-master\\app\\src\\main\\res\\raw\\_webmusic.mp3"
+    },
+    {
+        "merged": "E:\\Projectbits2\\musicplayerproject\\android-visualizer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\workaround_1min.mp3",
+        "source": "E:\\Projectbits2\\musicplayerproject\\android-visualizer-master\\app\\src\\main\\res\\raw\\workaround_1min.mp3"
+    },
+    {
+        "merged": "E:\\Projectbits2\\musicplayerproject\\android-visualizer-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\test.mp3",
+        "source": "E:\\Projectbits2\\musicplayerproject\\android-visualizer-master\\app\\src\\main\\res\\raw\\test.mp3"
+    }
+]
